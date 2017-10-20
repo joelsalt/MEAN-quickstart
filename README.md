@@ -3,6 +3,7 @@ This is a repo to quickly start an app in the future. It comes with configured s
 
 ### Requirements
 - [Node.js](https://nodejs.org/en/)
+- [Angular CLI](https://cli.angular.io/)
 - [MongoDB v3.4](https://www.mongodb.com/download-center#atlas)
 - [Robo3T](https://robomongo.org/)
 
