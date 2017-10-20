@@ -9,10 +9,10 @@ prompt             = no
 C=US
 ST=Florida
 L=Orlando
-O=BuyMeADrink
-OU=BMAD Development
-CN=BMAD Development
-emailAddress=joeldevelops@gmail.com
+O=Company Name
+OU=Company Division
+CN=Company Division
+emailAddress=company@gmail.com
 [req_ext]
 subjectAltName=@alt_names
 [alt_names]
